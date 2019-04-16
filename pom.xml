@@ -6,7 +6,7 @@
 
     <groupId>com.github.lithualien</groupId>
     <artifactId>presentation</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>presentation</name>
     <description>This is a sample library for presentation, about publishing to Maven Central.</description>
